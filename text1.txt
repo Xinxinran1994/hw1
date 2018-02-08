@@ -1,0 +1,2 @@
+Try adding the competitor rate to your linear model. And next time you create a file, need to put 
+the exact file of the name. 
